@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-family: MS Gothic;
+}
+.a0{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #5e5b5b;
+    text-decoration: none;
+} 
+.a1{
+    color: #c2bfbf;
+    text-decoration: none;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+.a2{
+    margin-right: 40vh;
+    font-size: 10vh;
+    margin-top: 20vh;
+    
+    
+}
+.a3{
+    color: #ff7a00;
+    font-size: 10vh;
+}
+.a4{
+  color: #ff5223;
+  font-size: 10vh;
+}
+.a5{
+    color: #e101a9;
+    font-size: 10vh;
+}
+.a6{
+    margin-right: 40vh;
+    font-size: 10vh;
+    margin-top: 20vh;
+    text-align: center;
+    text-shadow: 1px 1px 2px pink;
+    
+}
+.a7{
+    font-size: calc(48px + (16 * ((100vw - 375px) / 1225)));
+    font-family: Instagram Sans, Arial, Helvetica, sans-serif, Helvetica;
+}
+.a8{
+    font-size: 24px;
+    font-family: sans-serif;
+    line-height: 120%;
+    padding:3vh;
+}
+.a9{
+    margin-top: 50vh;
+    margin-right: 40vh;
+}
+.image1{
+    width: 20vh;
+}
+.vidéo5{
+    margin-top: 30vh;
+    width: 50vh;
+
+}
+.vidéo4{
+    margin-top: 30vh;
+}
+.vidéo3{
+    margin-top: 30vh;
+}
+.vidéo2{
+    margin-top: 40vh;
+}
+.position1{
+    background-image: url(image/image26.jpg);
+    background-size: 100%;
+    padding: 36vh;
+}
+
+.position2{
+    margin: 17vh;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.position3{
+    margin-left: 40vh;
+}
+.position4{
+    display: flex;
+    justify-content: space-around;
+}
+.bouton1{
+    background-color: #e20c0c;
+    color: #f3ebeb;
+    font-size: 16px;
+    padding: .5em 5em;
+    border-radius: 10vh;
+    text-decoration: none;
+    margin-left: 9vh;
+    font-family: "Times New Roman", Times, serif;
+}
+.bouton2{
+    background: #d6249f;
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+    color: #000000;
+    font-size: 16px;
+    padding: .7em 10em;
+    border-radius: 10vh;
+    text-decoration: none;
+    margin-left: 9vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
