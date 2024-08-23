@@ -111,17 +111,7 @@ body{
     left: 120vh;
     font-family: MV Boli;
 }
-.bouton4{
-    background-color: #7a7171;
-    color: #ffffff;
-    font-size: 16px;
-    padding: .7em 7em;
-    border-radius: 10vh;
-    text-decoration: none;
-    width: 8vh;
-    font-family: MV Boli;
-    
-}
+
 footer{
     background-color: #111b21;
    
@@ -139,6 +129,39 @@ a{
     text-decoration: none;
 }
 
-
-
+@media (max-width: 500px) {
+    .position1{
+        background-size: inherit;
+    }
+    .a4{
+        font-size: 6vh;
+        margin-left: 0;
+    }
+    .a5{
+        margin-left: 0;
+        margin-top: 0;
+        
+    }
+    .image2{
+        width: 44vh;
+        margin-top: 7vh;
+    }
+    .a7{
+        padding: 0;
+    }
+    .bouton3{
+        margin-left: 0;
+        left: 3vh;
+    }
+    .position{
+        flex-direction: column;
+        align-items: center;
+    }
+    .a8{
+        margin-left: 5vh;
+    }
+    .media{
+        margin-right: 16vh;
+    }
+}
    
